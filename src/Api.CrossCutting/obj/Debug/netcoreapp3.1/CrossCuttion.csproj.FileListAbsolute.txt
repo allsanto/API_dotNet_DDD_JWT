@@ -1,0 +1,16 @@
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCuttion.deps.json
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCuttion.dll
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCuttion.pdb
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCuttion.csprojAssemblyReference.cache
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCuttion.AssemblyInfoInputs.cache
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCuttion.AssemblyInfo.cs
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCuttion.csproj.CoreCompileInputs.cache
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCuttion.dll
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCuttion.pdb
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Projetos\23 - Curso Udemy C# .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCuttion.csproj.CopyComplete
